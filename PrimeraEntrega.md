@@ -1,5 +1,5 @@
 # BASE DE DATOS RELACIONAL PARA UNA PLATAFORMA DE GETIÓN DE EVENTOS Y CONFERENCIAS (EventCore)
-*Laura Vanessa Camargo Ramirez - 2242749, Estefanny Cadena Ceballos - 2242739, Adriana de Cristo Pino Gómez, Danna Sofia Bautista Contreras - 2242750 y Robert Santiago Davila Rubriche - 2221936*
+*Laura Vanessa Camargo Ramirez - 2242749, Estefanny Cadena Ceballos - 2242739, Adriana de Cristo Pino Gómez - 2241296, Danna Sofia Bautista Contreras - 2242750 y Robert Santiago Davila Rubriche - 2221936*
 
 ## 1. Introducción
 Este documento corresponde a la primera entrega del proyecto de aula de Bases de Datos. El objetivo final es diseñar una base de datos relacional para una plataforma que permita gestionar eventos y conferencias de forma organizada, desde el registro de usuarios y la compra de entradas hasta el control de ingreso, la evaluación del evento y el análisis de las estadísticas de asistencia.
