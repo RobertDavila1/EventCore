@@ -38,5 +38,8 @@ Entre sus características principales están el registro de asistentes, la vent
 - **4.1 Eventbrite** Es una plataforma profesional usada por empresas y universidades para eventos de gran escala, la cual cubre la gestión de asistentes, el registro en línea, la agenda del evento, el control de acceso, encuestas, reportes y eventos híbridos.
     - **Ventajas:** Es muy completa, ideal para eventos grandes y con gran capacidad de personalización y análisis.
     - **Desventajas:** Es costosa, más compleja de usar y requiere capacitación para aprovecharla al máximo.
+ 
+ ## 5. Diagrama Entidad Relación
+ ![image alt](https://github.com/RobertDavila1/EventCore/blob/8b753ba4e15e9939703d400ad7bdb43eddd0bcfd/DIagram%20ER.jpg)
 
 
