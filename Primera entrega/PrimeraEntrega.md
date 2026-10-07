@@ -39,7 +39,6 @@ Entre sus características principales están el registro de asistentes, la vent
     - **Ventajas:** Es muy completa, ideal para eventos grandes y con gran capacidad de personalización y análisis.
     - **Desventajas:** Es costosa, más compleja de usar y requiere capacitación para aprovecharla al máximo.
  
- ## 5. Diagrama Entidad Relación
- ![image alt](https://github.com/RobertDavila1/EventCore/blob/8b753ba4e15e9939703d400ad7bdb43eddd0bcfd/DIagram%20ER.jpg)
+ 
 
 
